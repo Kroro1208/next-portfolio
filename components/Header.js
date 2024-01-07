@@ -9,6 +9,7 @@ function Header() {
                 alt="image"
                 width={100}
                 height={60}
+                className='w-[7rem]'
             />
 
             <div>
